@@ -1,0 +1,40 @@
+{
+  "name": "github-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "config": {
+    "owner": "axetroy",
+    "repo": "blog",
+    "github_client_id": "b8257841dd7ca5eef2aa",
+    "github_client_secret": "4da33dd6fcb0a01d395945ad18613ecf9c12079e"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngtmuzi/webshell-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngtmuzi/webshell-demo/issues"
+  },
+  "homepage": "https://github.com/ngtmuzi/webshell-demo#readme",
+  "dependencies": {
+    "@axetroy/flow": "^0.1.0",
+    "axios": "^0.16.1",
+    "axios-retry": "^1.2.0",
+    "bluebird": "^3.5.0",
+    "cheerio": "^0.22.0",
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "debug": "^2.6.3",
+    "fs-extra": "^2.1.2",
+    "lodash": "^4.17.4",
+    "prettify-time": "^2.0.0",
+    "superagent": "^3.5.2"
+  }
+}
