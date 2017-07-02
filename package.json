@@ -26,13 +26,13 @@
   "dependencies": {
     "@axetroy/flow": "^0.1.0",
     "axios": "^0.16.1",
-    "axios-retry": "^1.2.0",
+    "axios-retry": "^2.0.1",
     "bluebird": "^3.5.0",
     "cheerio": "^0.22.0",
     "co": "^4.6.0",
     "colors": "^1.1.2",
     "debug": "^2.6.3",
-    "fs-extra": "^2.1.2",
+    "fs-extra": "^3.0.1",
     "lodash": "^4.17.4",
     "prettify-time": "^2.0.0",
     "superagent": "^3.5.2"
